@@ -11,4 +11,4 @@ Outputs are on the CN1 connector:
 
 I run a A4988 stepper driver module 4 to a Nema17 motor with a supply of only 12V.
 The driver is set to microsteps.
-This runs plenty fast enough for my application, 80 degrees/sec velocity with acceleration of 100 degrees/sec^2.
+This runs plenty fast enough for my application, 80°/s velocity with acceleration at 100°/s<sup>2</sup>.
